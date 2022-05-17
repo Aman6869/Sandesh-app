@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "549534228527",
+    "project_id": "whatsappmod-b4dff",
+    "storage_bucket": "whatsappmod-b4dff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:549534228527:android:74de9cbd4be896d8aba6da",
+        "android_client_info": {
+          "package_name": "com.andriod.Sandesh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "549534228527-kvd2sq9hvtu406q2ot5rm7q9dkcpjl0l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDW8Q0NaZ9NrH2mbdlgWKobZuoXkh77dVM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "549534228527-kvd2sq9hvtu406q2ot5rm7q9dkcpjl0l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
